@@ -13,7 +13,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Rufina:400,700" rel="stylesheet">
 
         <!-- title of site -->
-        <title>CarVilla</title>
+        <title>Diskumperindag</title>
 
         <!-- For favicon png -->
 		<link rel="shortcut icon" type="image/icon" href="{{ asset('assets/logo/favicon.png') }}"/>
